@@ -1,6 +1,6 @@
-1. 
+1. สร้าง repository ใหม่ใน Git.com
 new repository
-2.
+2. สร้างโฟลเดอร์ใน localhost พร้อม ลงทะเบียนด้วย
 echo "# Laerning-Git-with-Bank" >> README.md
 git init
 git add .
@@ -8,7 +8,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/SittiphanSittisak/Laerning-Git-with-Bank.git
 git push -u origin main
-3. 
+3. อัปเดตโดย
 git add .
 git commit -m "ver N"
 git push
