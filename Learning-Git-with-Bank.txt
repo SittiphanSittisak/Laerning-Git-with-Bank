@@ -1,0 +1,14 @@
+1. 
+new repository
+2.
+echo "# Laerning-Git-with-Bank" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/SittiphanSittisak/Laerning-Git-with-Bank.git
+git push -u origin main
+3. 
+git add .
+git commit -m "ver N"
+git push
